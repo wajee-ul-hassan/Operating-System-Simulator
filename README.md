@@ -1,1 +1,1 @@
-# Operating-System-Simulator
+This project involves developing an operating system that provides hardware resources on startup. It displays the operating system name on the boot screen and initiates basic tasks like time and calendar. The system includes an instruction guide for users to perform various tasks, which are executed in separate terminals using EXEC commands. Scheduling techniques manage task execution in RAM, with a ready queue and support for interrupts. Completed tasks are removed from RAM, and user data is saved to the hard disk for persistence.
